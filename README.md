@@ -1,1 +1,1 @@
-# PGLife
+PG Life is a user-friendly platform designed to simplify the process of finding and offering paying guest (PG) accommodations. Our platform aims to connect PG seekers with hosts, ensuring a seamless and efficient experience for both parties.
